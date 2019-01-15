@@ -1,5 +1,4 @@
 .libPaths()
-ipt <- installed.packages() %>%
-  as_tibble()
+ipt <- installed.packages()
 
 nrow(ipt)
