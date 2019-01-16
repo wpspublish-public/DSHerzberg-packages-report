@@ -6,3 +6,5 @@ An edit from RStudio
 Another edit, now from GitHub in browser
 
 Another edit from browser
+
+Here's an edit from Wed.
