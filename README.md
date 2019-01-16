@@ -10,3 +10,5 @@ Another edit from browser
 Here's an edit from Wed.
 
 I love rewriting git history
+
+Another change
