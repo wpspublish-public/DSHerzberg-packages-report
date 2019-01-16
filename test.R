@@ -5,3 +5,4 @@
 ipt <- installed.packages()
 
 nrow(ipt)
+ncol(ipt)
