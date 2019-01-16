@@ -13,12 +13,4 @@ I love rewriting git history
 
 Another change
 
-
-acdeef
-
-abcdefghijklmnopqrst
-
-trying to break things
-
-
-Wingardium Leviosaaaaaaaa 
+This is the new file without any of the garbage from the merge conflict.
